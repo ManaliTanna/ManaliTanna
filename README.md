@@ -4,7 +4,7 @@
 
 I'm a student pursuing Masters in computer science at New York University.
 -  Software Engineer with a focus on AI/ML
--  I’m looking to collaborate on Innovative project that help society.
+-  I’m looking to collaborate on innovative & impactful projects that help society.
 -  Reach me at  [![Linkedin Badge](https://img.shields.io/badge/-manalitanna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manalitanna/)](https://www.linkedin.com/in/manalitanna/) [![Gmail Badge](https://img.shields.io/badge/-manalitanna-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manalitanna@nyu.edu)](mailto:manalitanna@nyu.edu)
 
 ## My Github Stats
